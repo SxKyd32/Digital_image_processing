@@ -1,0 +1,24 @@
+﻿  DigGraphts.cpp
+D:\Cherchez\Microsoft Visual Studio\Documents\Repos\PICProg\PICProg\GraphMsg.h(52,2): warning C4091: “typedef ”: 没有声明变量时忽略“Region”的左侧
+D:\Cherchez\Microsoft Visual Studio\Documents\Repos\PICProg\PICProg\DigGraphts.cpp(38,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\Cherchez\Microsoft Visual Studio\Documents\Repos\PICProg\PICProg\DigGraphts.cpp(289,65): warning C4244: “=”: 从“double”转换到“BYTE”，可能丢失数据
+D:\Cherchez\Microsoft Visual Studio\Documents\Repos\PICProg\PICProg\DigGraphts.cpp(543,17): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\Cherchez\Microsoft Visual Studio\Documents\Repos\PICProg\PICProg\DigGraphts.cpp(544,18): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\Cherchez\Microsoft Visual Studio\Documents\Repos\PICProg\PICProg\DigGraphts.cpp(571,12): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\Cherchez\Microsoft Visual Studio\Documents\Repos\PICProg\PICProg\DigGraphts.cpp(572,12): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\Cherchez\Microsoft Visual Studio\Documents\Repos\PICProg\PICProg\DigGraphts.cpp(573,18): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\Cherchez\Microsoft Visual Studio\Documents\Repos\PICProg\PICProg\DigGraphts.cpp(574,18): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\Cherchez\Microsoft Visual Studio\Documents\Repos\PICProg\PICProg\DigGraphts.cpp(595,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\Cherchez\Microsoft Visual Studio\Documents\Repos\PICProg\PICProg\DigGraphts.cpp(596,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\Cherchez\Microsoft Visual Studio\Documents\Repos\PICProg\PICProg\DigGraphts.cpp(815,23): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Cherchez\Microsoft Visual Studio\Documents\Repos\PICProg\PICProg\DigGraphts.cpp(815,21): warning C4244: “初始化”: 从“double”转换到“const int”，可能丢失数据
+D:\Cherchez\Microsoft Visual Studio\Documents\Repos\PICProg\PICProg\DigGraphts.cpp(816,23): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Cherchez\Microsoft Visual Studio\Documents\Repos\PICProg\PICProg\DigGraphts.cpp(816,21): warning C4244: “初始化”: 从“double”转换到“const int”，可能丢失数据
+D:\Cherchez\Microsoft Visual Studio\Documents\Repos\PICProg\PICProg\DigGraphts.cpp(1473,9): warning C4554: “^”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+D:\Cherchez\Microsoft Visual Studio\Documents\Repos\PICProg\PICProg\DigGraphts.cpp(1569,9): warning C4554: “^”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+D:\Cherchez\Microsoft Visual Studio\Documents\Repos\PICProg\PICProg\DigGraphts.cpp(1579,8): warning C4554: “^”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+D:\Cherchez\Microsoft Visual Studio\Documents\Repos\PICProg\PICProg\DigGraphts.cpp(1891,8): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\Cherchez\Microsoft Visual Studio\Documents\Repos\PICProg\PICProg\DigGraphts.cpp(1894,7): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  Menu.cpp
+  正在生成代码...
+  PICProg.vcxproj -> D:\Cherchez\Microsoft Visual Studio\Documents\Repos\PICProg\Debug\PICProg.exe
